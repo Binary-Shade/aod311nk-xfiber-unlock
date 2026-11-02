@@ -18,6 +18,7 @@ reprovisioning, not a demonstrated AOD311NK R7.0 exploit.
 
 - [Research findings](docs/findings.md)
 - [Evidence matrix](docs/evidence-matrix.md)
+- [Video claim analysis](docs/video-claim-analysis.md)
 - [Source registry](docs/sources.csv)
 - [Experiment plan](docs/experiment-plan.md)
 - [Safety and privacy rules](docs/safety.md)

@@ -13,6 +13,9 @@
 | E09 | Local ODU serves HTTPS and dnsmasq 2.81 | Yes | Yes | No | Yes | A | Reproduced locally |
 | E10 | Local ODU is SIM/carrier locked | Yes | Yes | No | No | — | Not established |
 | E11 | Paid IMEI sites can unlock Airtel AOD311NK | Name only | No | No | No | Rejected | Generic SEO workflow |
+| E12 | Video summary claims physical Jio SIM works through TR-369/MQTT changes | Unclear | No | Claimed | Video unavailable | C-/D | Historical lead; exact model/build unverified |
+| E13 | Public post claims Airtel Nokia ODU restriction bypass and ~1 Gbps | Unclear | No | Not specified | Video unavailable | C+ | Corroborates video existence, not R7.0 method |
+| E14 | Newer firmware may lack exposed TR-369 interface | Nokia ODU | Possibly | N/A | Community report | C-/D | Consistent with observed R7.0 UI; needs API proof |
 
 ## What would count as proven Jio success
 
