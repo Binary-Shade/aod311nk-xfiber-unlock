@@ -1,0 +1,11 @@
+id,title,url,source_type,accessed_ist,evidence_grade,notes
+S01,apnctl-pleasebenice,https://github.com/thelivingduck/apnctl-pleasebenice,GitHub,2026-11-02,B-/C+,Exact AOD311NK older firmware; binary-only; no Jio proof
+S02,Airtel Nokia Fastmile TR-369 guide,https://github.com/abhigyan17/Airfiber_Unlock/tree/main/Airtel%20Nokia%20Fastmile,GitHub,2026-11-02,C,Controller reprovisioning; no R7.0 evidence
+S03,AOD311NK community question,https://www.reddit.com/r/homelabindia/comments/1w27w9w/anybody_able_to_unlocked_airfiber_odu_aod311nk/,Reddit,2026-11-02,C-/D,Board evidence and discussion; no success procedure
+S04,Related Airtel ODU discussion,https://www.reddit.com/r/homelabindia/comments/1w387aa/help_me_to_unlock_airfiber_odu/,Reddit,2026-11-02,D/C-,Jio success claimed without exact model or artifacts
+S05,BIGBEST unlocked AOD311NK listing,https://www.bigbest.in/product/unlocked-airtel-5g-broadband-wireless-outdoor-cpe-router-all-sim-card-worcking,Commercial,2026-11-02,C,Exact-model sales claim and verified data-use review; method unknown
+S06,Jio official 5G bands,https://www.jio.com/help/faq/mobile/jio-true-5g/about-5g/what-are-the-bands-on-which-jio-5g-is-available.html,Official,2026-11-02,A,n28 n78 n258
+S07,Nokia FastMile 5G Receiver User Guide,https://www.nokia.com/sites/default/files/2022-11/fastmile-5g-receiver-user-guide.pdf,Official,2026-11-02,B,Family-level bands; variants differ
+S08,Nokia Corteca presentation showing AOD311NK,https://nam.gettofastfaster.com/wp-content/uploads/sites/64/2024/08/Managed-Wi-Fi-with-Corteca-GTFF-2025-breakout.pdf,Industry presentation,2026-11-02,B,Shows managed AOD311NK and 4G status example
+S09,AOD311NK TAC catalog,https://fccid.io/TAC/35350529,Third-party database,2026-11-02,C,Model identity only; capability fields conflict
+S10,Generic IMEI unlock storefront example,https://expressunlocks.com/en_ca/unlock-nokia-aod311nk,Commercial,2026-11-02,Rejected,No device-specific result; handset-centric workflow

@@ -1,0 +1,12 @@
+evidence/private/
+*.har
+*.pcap
+*.pcapng
+*.bin
+*.img
+*.key
+*.pem
+*.p12
+*.pfx
+cookies.txt
+secrets/
