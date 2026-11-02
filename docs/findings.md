@@ -13,6 +13,14 @@ same API remains available.
 No source found met Grade A for: exact AOD311NK, firmware R7.0, Jio SIM, documented
 APN, successful registration, band/status evidence, and reproducible procedure.
 
+A subsequently supplied timestamped video transcript provides a coherent narrated
+workflow in which an Airtel Nokia ODU is connected on VLAN 1999, enrolled with a
+custom TR-369/MQTT controller, adjusted for GRE/VLAN/LAN behavior, fitted with a
+physical Jio SIM, and shown receiving Jio IPv4/IPv6. This raises the historical
+success claim to B-/C+ evidence, but the transcript does not state AOD311NK or the
+firmware version; those values may only have appeared visually in the unavailable
+video. It therefore does not resolve R7.0 compatibility.
+
 ## Exact-model leads
 
 ### Binary-only APN utility — Grade B-/C+

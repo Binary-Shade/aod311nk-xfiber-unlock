@@ -10,4 +10,4 @@ S08,Nokia Corteca presentation showing AOD311NK,https://nam.gettofastfaster.com/
 S09,AOD311NK TAC catalog,https://fccid.io/TAC/35350529,Third-party database,2026-11-02,C,Model identity only; capability fields conflict
 S10,Generic IMEI unlock storefront example,https://expressunlocks.com/en_ca/unlock-nokia-aod311nk,Commercial,2026-11-02,Rejected,No device-specific result; handset-centric workflow
 S11,Airtel AirFiber 5G Speed Limit Bypass post,https://www.linkedin.com/posts/suraj-saini_post-from-hacksmith-tech-zone-activity-7441899778332061696-xzLG,LinkedIn,2026-11-02,C+,Links now-unavailable video; claims Nokia ODU bypass and 1 Gbps
-S12,User-supplied video summary,not-provided,Secondary summary,2026-11-02,C-/D,Claims Jio SIM VLAN 1999 and unauthenticated TR-369 MQTT; original required
+S12,User-supplied timestamped video transcript,not-provided,Secondary transcript,2026-11-02,B-/C+,Continuous claims of Jio SIM VLAN 1999 TR-369 MQTT and Jio IPv4/IPv6; original video required
