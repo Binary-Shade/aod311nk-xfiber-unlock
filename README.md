@@ -1,4 +1,4 @@
-# Nokia AOD311NK interoperability research
+# aod311nk-xfiber-unlock
 
 Evidence-led research into whether an Airtel Nokia AOD311NK outdoor CPE can be
 used with another Indian mobile network, especially Jio, without unsafe firmware
